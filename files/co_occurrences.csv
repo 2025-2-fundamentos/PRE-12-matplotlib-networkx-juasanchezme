@@ -1,0 +1,40 @@
+source,target,weight
+United States,China,210
+United States,India,180
+United States,United Kingdom,160
+United States,Germany,140
+United States,France,130
+United States,Canada,120
+United States,Australia,110
+China,India,90
+China,United Kingdom,85
+China,Germany,80
+China,France,70
+India,United Kingdom,65
+India,Australia,55
+United Kingdom,Germany,75
+United Kingdom,France,68
+Germany,France,60
+Germany,Italy,57
+France,Italy,52
+Italy,Spain,50
+Spain,Brazil,48
+Brazil,Canada,45
+Canada,Australia,44
+Australia,Japan,42
+Japan,South Korea,40
+South Korea,China,38
+Netherlands,Germany,36
+Netherlands,United Kingdom,34
+Switzerland,Germany,33
+Switzerland,France,30
+Turkey,Germany,28
+Turkey,Italy,26
+Iran,China,24
+Iran,India,23
+Sweden,United Kingdom,22
+Sweden,Germany,21
+Russia,China,20
+Russia,India,19
+South Africa,United Kingdom,18
+South Africa,United States,17
